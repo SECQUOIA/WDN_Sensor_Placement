@@ -48,6 +48,5 @@ min_{x} ( sum_{i in V} (c_i + rho - 2rho s - w_{ij})x_i^2 + sum_{(i,j) in E} w_{
 
 where `s` is the total number of sensors that is predefined.
 
-The optimal sensor placement problem is solved using five different solvers: Gurobi, Tabu Search, Simulated Annealing, Hybrid Quantum-Classical and Quantum Annealing.
-
+The optimal sensor placement problem is solved using five different solvers: Gurobi, dwave-tabu Tabu Search Sampler, dwave-neal Simulated Annealing Sampler, D-Wave Leap Hybrid Quantum-Classical solver and D-Wave Advantage 4.1 Quantum Annealer.
 Additionally, we leverage **[Networkx](https://networkx.github.io/)** for network models and graphs.
