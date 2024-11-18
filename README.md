@@ -50,4 +50,4 @@ where `s` is the total number of sensors that is predefined.
 
 The optimal sensor placement problem is solved using five different solvers: Gurobi, Tabu Search, Simulated Annealing, Hybrid Quantum-Classical and Quantum Annealing. via **[neal](https://github.com/dwavesystems/dwave-neal)**.
 
-Additionally, we leverage D-Wave's package **[dwavebinarycsp](https://github.com/dwavesystems/dwavebinarycsp)** to translate constraint satisfaction problems into QUBOs. For Groebner basis computations, we use **[Sympy](https://www.sympy.org/)** for symbolic computation in Python and **[Networkx](https://networkx.github.io/)** for network models and graphs.
+Additionally, we leverage **[Networkx](https://networkx.github.io/)** for network models and graphs.
