@@ -1,0 +1,98 @@
+Section, Node, X, Y
+Coordinates, J-1, 7111.65, 7532.36
+Coordinates, J-2, 5679.61, 9538.83
+Coordinates, J-3, 4862.46, 9538.83
+Coordinates, J-4, 2750.81, 9474.11
+Coordinates, J-5, 1852.75, 8357.61
+Coordinates, J-6, 1974.11, 6076.05
+Coordinates, J-7, 1974.11, 5149.68
+Coordinates, J-8, 4235.44, 5076.86
+Coordinates, J-9, 6411.81, 5093.04
+Coordinates, J-10, 5412.62, 7888.35
+Coordinates, J-11, 4510.52, 8264.56
+Coordinates, J-12, 3033.98, 9243.53
+Coordinates, J-13, 2301.78, 8078.48
+Coordinates, J-14, 2944.98, 7669.90
+Coordinates, J-15, 3786.41, 7139.97
+Coordinates, J-16, 4830.10, 6480.58
+Coordinates, J-17, 7099.51, 8438.51
+Coordinates, J-18, 5505.66, 8450.65
+Coordinates, J-19, 3563.92, 8839.00
+Coordinates, J-20, 3167.48, 7532.36
+Coordinates, J-21, 2730.58, 7285.60
+Coordinates, J-22, 3511.33, 6666.67
+Coordinates, J-23, 4097.90, 6286.41
+Coordinates, J-24, 3337.38, 5121.36
+Coordinates, J-25, 4530.74, 6011.33
+Coordinates, J-26, 4215.21, 7783.17
+Coordinates, J-27, 5194.17, 7055.02
+Coordinates, J-28, 5218.45, 5089.00
+Coordinates, J-29, 5622.98, 5999.19
+Coordinates, J-30, 5950.65, 5796.93
+Coordinates, J-31, 6614.08, 7621.36
+Coordinates, J-32, 5380.26, 7544.50
+Coordinates, J-33, 6318.77, 7281.55
+Coordinates, J-34, 6549.35, 7212.78
+Coordinates, J-35, 6585.76, 6092.23
+Coordinates, J-36, 7152.10, 6104.37
+Coordinates, T-1, 7669.90, 7783.17
+
+Section, Node1, Node2
+Edges, J-1, J-17
+Edges, J-17, J-2
+Edges, J-2, J-3
+Edges, J-3, J-4
+Edges, J-4, J-5
+Edges, J-5, J-6
+Edges, J-6, J-7
+Edges, J-7, J-24
+Edges, J-24, J-8
+Edges, J-8, J-28
+Edges, J-28, J-9
+Edges, J-9, J-36
+Edges, J-36, J-1
+Edges, J-1, J-31
+Edges, J-31, J-10
+Edges, J-10, J-11
+Edges, J-11, J-19
+Edges, J-19, J-12
+Edges, J-12, J-4
+Edges, J-2, J-18
+Edges, J-18, J-10
+Edges, J-10, J-32
+Edges, J-32, J-27
+Edges, J-27, J-16
+Edges, J-16, J-25
+Edges, J-25, J-8
+Edges, J-3, J-11
+Edges, J-11, J-26
+Edges, J-26, J-15
+Edges, J-15, J-22
+Edges, J-22, J-7
+Edges, J-5, J-13
+Edges, J-13, J-14
+Edges, J-14, J-20
+Edges, J-20, J-15
+Edges, J-15, J-16
+Edges, J-16, J-29
+Edges, J-29, J-30
+Edges, J-30, J-9
+Edges, J-17, J-18
+Edges, J-12, J-13
+Edges, J-19, J-20
+Edges, J-14, J-21
+Edges, J-21, J-6
+Edges, J-21, J-22
+Edges, J-22, J-23
+Edges, J-24, J-23
+Edges, J-23, J-25
+Edges, J-26, J-27
+Edges, J-28, J-29
+Edges, J-29, J-33
+Edges, J-32, J-33
+Edges, J-33, J-34
+Edges, J-31, J-34
+Edges, J-34, J-35
+Edges, J-30, J-35
+Edges, J-35, J-36
+Edges, T-1, J-1
